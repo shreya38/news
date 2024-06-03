@@ -14,12 +14,20 @@ now you this application ready to start
 to start the application 
 
 
-if you see this error 'react-scripts' is not recognized as an internal or external command,
+
+
+## if you see this error
+
+'react-scripts' is not recognized as an internal or external command,
 operable program or batch file.
 
-then please run  npm install react-scripts --save
+## then please run 
 
-and then npm start 
+npm install react-scripts --save
+
+## and then 
+
+npm start 
 
 
 
