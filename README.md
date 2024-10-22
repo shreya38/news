@@ -5,9 +5,8 @@ Fist download this file
 
 ### npm install 
 
-to install all necessary package 
+to install all necessary package
 
-now you this application ready to start 
 
 ### `npm start`
 
